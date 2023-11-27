@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://nutriafresh.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://nutriafresh.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://nutriafresh.com/collections/pure-oil.atom"/>
+  <title>Nutria Fresh</title>
+  <updated>2023-08-18T10:46:32+05:00</updated>
+  <author>
+    <name>Nutria Fresh</name>
+  </author>
+  <entry>
+    <id>https://nutriafresh.com/products/8616310178102</id>
+    <published>2023-08-18T10:46:32+05:00</published>
+    <updated>2023-08-18T10:46:32+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nutriafresh.com/products/taramira-oil"/>
+    <title>Taramira Oil</title>
+    <s:type></s:type>
+    <s:vendor>Nutria Fresh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/4958/1878/files/01-taramira-oil-08-scaled.webp?v=1692337594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nutria Fresh<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            783.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Taramira oil, also known as arugula oil or Jamba oil, is a natural oil that is extracted from the seeds of the taramira plant (Eruca sativa). It is a yellow to golden-colored oil with a slightly pungent odor. Taramira oil has been used for centuries in traditional medicine for a variety of ailments. </span></p>
+<p><b>Quick Facts:</b></p>
+<p><span style="font-weight: 400;">Taramira oil has several potential health benefits, including:</span></p>
+<ul>
+<li style="font-weight: 400;">
+<b>Improved hair health:</b><span style="font-weight: 400;"> Taramira oil is a good source of essential fatty acids, which are important for hair growth. Taramira oil can also help to nourish the scalp and reduce dandruff.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Reduced inflammation:</b><span style="font-weight: 400;"> Taramira oil has anti-inflammatory properties that can help to reduce inflammation throughout the body. Inflammation is linked to several chronic diseases, such as heart disease, cancer, and Alzheimer's disease.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Improved skin health:</b><span style="font-weight: 400;"> Taramira oil is a good source of vitamins and antioxidants, which can help to protect the skin from damage. Taramira oil can also help to moisturize the skin and reduce wrinkles.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Boosted immune system:</b><span style="font-weight: 400;"> Taramira oil is a good source of antioxidants, which can help to boost the immune system. Antioxidants can help to protect the body from damage caused by free radicals.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Reduced pain:</b><span style="font-weight: 400;"> Taramira oil has analgesic properties that can help to reduce pain. Taramira oil can be applied topically to the affected area to help relieve pain.</span>
+</li>
+</ul>
+<p><b>How to Use</b></p>
+<p><span style="font-weight: 400;">Taramira oil can be used in a variety of ways. It can be applied topically to the skin or hair, or it can be taken orally.</span></p>
+<ul>
+<li style="font-weight: 400;">
+<b>For hair health:</b><span style="font-weight: 400;"> Massage taramira oil into your scalp and hair. Leave it on for 30 minutes to an hour before washing it off.</span>
+</li>
+<li style="font-weight: 400;">
+<b>For skin health:</b><span style="font-weight: 400;"> Apply taramira oil to the affected area. Massage it in gently.</span>
+</li>
+<li style="font-weight: 400;">
+<b>For pain relief:</b><span style="font-weight: 400;"> Apply taramira oil to the affected area. Massage it in gently.</span>
+</li>
+<li style="font-weight: 400;">
+<b>For oral consumption:</b><span style="font-weight: 400;"> Take 1-2 teaspoons of taramira oil per day.</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://nutriafresh.com/products/8616310178102</id>
+      <title>Default Title</title>
+      <s:price currency="PKR">783.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nutriafresh.com/products/8616306245942</id>
+    <published>2023-08-18T10:45:34+05:00</published>
+    <updated>2023-08-18T10:45:34+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nutriafresh.com/products/sweet-almond-oil"/>
+    <title>Sweet Almond Oil</title>
+    <s:type></s:type>
+    <s:vendor>Nutria Fresh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/4958/1878/files/01-almond-oil-02-scaled.webp?v=1692337537"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nutria Fresh<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1539.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Sweet almond oil is a pale yellow, almost colorless, carrier oil that is derived from the kernels of sweet almonds. It is a popular choice for skin care and massage, as it is gentle and non-irritating. Sweet almond oil is also a good source of vitamin E, which is an antioxidant that can help protect the skin from damage. </span></p>
+<h2 data-mce-fragment="1"><br></h2>
+<p><b>Quick Facts:</b></p>
+<p><span style="font-weight: 400;">Sweet almond oil has several potential benefits for the skin, including:</span></p>
+<ul>
+<li style="font-weight: 400;">
+<b>Moisturizing:</b><span style="font-weight: 400;"> Sweet almond oil is a natural emollient, which means that it helps to keep the skin hydrated. It is a good choice for people with dry or sensitive skin.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Soothing:</b><span style="font-weight: 400;"> Sweet almond oil can help to soothe irritated skin. It is a good choice for people with conditions such as eczema or psoriasis.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Anti-inflammatory:</b><span style="font-weight: 400;"> Sweet almond oil has anti-inflammatory properties that can help to reduce redness and swelling.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Antioxidant:</b><span style="font-weight: 400;"> Sweet almond oil is a good source of vitamin E, which is an antioxidant that can help to protect the skin from damage caused by free radicals.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Anti-aging:</b><span style="font-weight: 400;"> Sweet almond oil can help to reduce the appearance of wrinkles and fine lines.</span>
+</li>
+</ul>
+<p><b>How to Use</b></p>
+<p><span style="font-weight: 400;">Sweet almond oil can be used in a variety of ways, including:</span></p>
+<ul>
+<li style="font-weight: 400;">
+<b>As a moisturizer:</b><span style="font-weight: 400;"> Apply sweet almond oil to your skin after bathing or showering.</span>
+</li>
+<li style="font-weight: 400;">
+<b>As a massage oil:</b><span style="font-weight: 400;"> Massage sweet almond oil into your skin to help relax muscles and reduce tension.</span>
+</li>
+<li style="font-weight: 400;">
+<b>As a makeup remover:</b><span style="font-weight: 400;"> Apply sweet almond oil to a cotton ball and use it to remove makeup.</span>
+</li>
+<li style="font-weight: 400;">
+<b>As a hair treatment:</b><span style="font-weight: 400;"> Massage sweet almond oil into your scalp and hair to help nourish and condition it.</span>
+</li>
+<li>
+<b>As a carrier oil for essential oils: </b>Add a few drops of your favorite essential oil to sweet almond oil to create a custom blend for massage or aromatherapy.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://nutriafresh.com/products/8616306245942</id>
+      <title>Default Title</title>
+      <s:price currency="PKR">1539.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nutriafresh.com/products/8616302313782</id>
+    <published>2023-08-18T10:44:30+05:00</published>
+    <updated>2023-08-18T10:44:30+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nutriafresh.com/products/sesame-seed-oil"/>
+    <title>Sesame Seed Oil</title>
+    <s:type></s:type>
+    <s:vendor>Nutria Fresh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/4958/1878/files/01-seseamed-oil-07-scaled.webp?v=1692337472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nutria Fresh<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            684.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Sesame seed oil is a flavorful and versatile cooking oil that is made from pressed sesame seeds. It has a nutty, slightly sweet flavor and a light, golden color. Sesame seed oil is a good source of polyunsaturated and monounsaturated fats, as well as vitamin E and antioxidants. </span></p>
+<p><b>Quick Facts:</b></p>
+<p><span style="font-weight: 400;">Sesame seed oil has several potential health benefits, including:</span></p>
+<ul>
+<li style="font-weight: 400;">
+<b>Improved heart health:</b><span style="font-weight: 400;"> Sesame seed oil is a good source of polyunsaturated and monounsaturated fats, which can help to low cholesterol levels and reduce the risk of heart disease.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Reduced inflammation:</b><span style="font-weight: 400;"> Sesame seed oil has anti-inflammatory properties that can help to reduce inflammation throughout the body. Inflammation is linked to several chronic diseases, such as heart disease, cancer, and Alzheimer's disease.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Boosted immune system:</b><span style="font-weight: 400;"> Sesame seed oil is a good source of antioxidants, which can help to boost the immune system. Antioxidants can help to protect the body from damage caused by free radicals.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Improved skin health:</b><span style="font-weight: 400;"> Sesame seed oil is a good source of vitamin E, which is an antioxidant that can help to protect the skin from damage. Sesame seed oil can also help to moisturize the skin and reduce wrinkles.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Improved hair health:</b><span style="font-weight: 400;"> Sesame seed oil can help to nourish the hair and scalp. It can also help to reduce dandruff and promote hair growth.</span>
+</li>
+</ul>
+<p data-mce-fragment="1"><strong>How to Use</strong></p>
+<p><span style="font-weight: 400;">Sesame seed oil can be used in a variety of ways, including:</span></p>
+<ul>
+<li style="font-weight: 400;">
+<b>As a cooking oil:</b><span style="font-weight: 400;"> Sesame seed oil can be used to stir-fry, saute, or roast vegetables. It can also be used to make salad dressings or marinades.</span>
+</li>
+<li style="font-weight: 400;">
+<b>As a finishing oil:</b><span style="font-weight: 400;"> Sesame seed oil can be drizzled over cooked dishes to add flavor and aroma.</span>
+</li>
+<li style="font-weight: 400;">
+<b>As a dipping oil:</b><span style="font-weight: 400;"> Sesame seed oil can be used as a dipping oil for bread, vegetables, or dumplings.</span>
+</li>
+<li style="font-weight: 400;">
+<b>As a massage oil:</b><span style="font-weight: 400;"> Sesame seed oil can be used as a massage oil to help relax muscles and reduce tension.</span>
+</li>
+<li>
+<b>As a hair treatment:</b><span style="font-weight: 400;"> Sesame seed oil can be massaged into the scalp and hair to help nourish and condition it.</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://nutriafresh.com/products/8616302313782</id>
+      <title>Default Title</title>
+      <s:price currency="PKR">684.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nutriafresh.com/products/8616298283318</id>
+    <published>2023-08-18T10:43:27+05:00</published>
+    <updated>2023-08-18T10:43:27+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nutriafresh.com/products/mustard-oil"/>
+    <title>Mustard Oil</title>
+    <s:type></s:type>
+    <s:vendor>Nutria Fresh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/4958/1878/files/01-mustard-oil-06-scaled.webp?v=1692875569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nutria Fresh<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            612.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Mustard oil is a pungent, flavorful cooking oil that is made from pressed mustard seeds. It has a deep golden color and a strong, mustardy aroma. Mustard oil is a popular choice for Indian and Bangladeshi cuisine, as well as for pickling and preserving foods. </span></p>
+<p><b>Quick Facts:</b></p>
+<p><span style="font-weight: 400;">Mustard oil has several potential health benefits, including:</span></p>
+<ul>
+<li style="font-weight: 400;">
+<b>Improved heart health:</b><span style="font-weight: 400;"> Mustard oil is a good source of monounsaturated and polyunsaturated fats, which can help to lower cholesterol levels and reduce the risk of heart disease.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Reduced inflammation:</b><span style="font-weight: 400;"> Mustard oil has anti-inflammatory properties that can help to reduce inflammation throughout the body. Inflammation is linked to several chronic diseases, such as heart disease, cancer, and Alzheimer's disease.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Boosted immune system:</b><span style="font-weight: 400;"> Mustard oil is a good source of antioxidants, which can help to boost the immune system. Antioxidants can help to protect the body from damage caused by free radicals.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Improved digestion:</b><span style="font-weight: 400;"> Mustard oil can help to stimulate digestion and promote the absorption of nutrients.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Relief from pain and inflammation:</b><span style="font-weight: 400;"> Mustard oil can be applied topically to help relieve pain and inflammation. For example, it can be used to massage sore muscles or to help reduce the swelling of a bruise.</span>
+</li>
+</ul>
+<p><b>How to Use</b></p>
+<p><span style="font-weight: 400;">Mustard oil can be used in a variety of ways, including:</span></p>
+<ul>
+<li style="font-weight: 400;">
+<b>As a cooking oil:</b><span style="font-weight: 400;"> Mustard oil can be used to stir-fry, saute, or roast vegetables. It can also be used to make salad dressings or marinades.</span>
+</li>
+<li style="font-weight: 400;">
+<b>As a finishing oil:</b><span style="font-weight: 400;"> Mustard oil can be drizzled over cooked dishes to add flavor and aroma.</span>
+</li>
+<li style="font-weight: 400;">
+<b>As a dipping oil:</b><span style="font-weight: 400;"> Mustard oil can be used as a dipping oil for bread, vegetables, or dumplings.</span>
+</li>
+<li style="font-weight: 400;">
+<b>As a massage oil:</b><span style="font-weight: 400;"> Mustard oil can be used as a massage oil to help relax muscles and reduce tension.</span>
+</li>
+<li>
+<b>As a hair treatment:</b><span style="font-weight: 400;"> Mustard oil can be massaged into the scalp and hair to help nourish and condition it.</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://nutriafresh.com/products/8616298283318</id>
+      <title>Default Title</title>
+      <s:price currency="PKR">612.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nutriafresh.com/products/8616297103670</id>
+    <published>2023-08-18T10:42:38+05:00</published>
+    <updated>2023-08-18T10:42:38+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nutriafresh.com/products/fenugreek-oil"/>
+    <title>Fenugreek Oil</title>
+    <s:type></s:type>
+    <s:vendor>Nutria Fresh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/4958/1878/files/01-Fenugreek-oil-05-scaled.webp?v=1692337360"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nutria Fresh<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1152.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Fenugreek oil is a natural oil that is extracted from the seeds of the fenugreek plant. It has a strong, nutty aroma and a slightly bitter taste. Fenugreek oil has been used for centuries in traditional medicine for a variety of ailments. </span></p>
+<p><b>Quick Facts:</b></p>
+<p><span style="font-weight: 400;">Fenugreek oil has several potential health benefits, including:</span></p>
+<ul>
+<li style="font-weight: 400;">
+<b>Improved hair health:</b><span style="font-weight: 400;"> Fenugreek oil is a good source of protein and nicotinic acid, which are both important for hair growth. Fenugreek oil can also help to condition the hair and scalp.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Reduced inflammation:</b><span style="font-weight: 400;"> Fenugreek oil has anti-inflammatory properties that can help to reduce inflammation throughout the body. Inflammation is linked to several chronic diseases, such as heart disease, cancer, and Alzheimer's disease.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Improved blood sugar control:</b><span style="font-weight: 400;"> Fenugreek oil can help to improve blood sugar control in people with diabetes. Fenugreek oil can help to slow the absorption of sugar into the bloodstream.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Boosted testosterone levels:</b><span style="font-weight: 400;"> Fenugreek oil can help to boost testosterone levels in men. Testosterone is a hormone that is important for muscle mass, bone density, and libido.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Reduced cholesterol levels:</b><span style="font-weight: 400;"> Fenugreek oil can help to reduce cholesterol levels. Fenugreek oil can help to lower LDL (bad) cholesterol and raise HDL (good) cholesterol.</span>
+</li>
+</ul>
+<p><b>How to Use</b></p>
+<p><span style="font-weight: 400;">Fenugreek oil can be used in a variety of ways. It can be applied topically to the skin or hair, or it can be taken orally.</span></p>
+<ul>
+<li style="font-weight: 400;">
+<b>For hair health:</b><span style="font-weight: 400;"> Massage fenugreek oil into your scalp and hair. Leave it on for 30 minutes to an hour before washing it off.</span>
+</li>
+<li style="font-weight: 400;">
+<b>For inflammation:</b><span style="font-weight: 400;"> Apply fenugreek oil to the affected area. Massage it in gently.</span>
+</li>
+<li style="font-weight: 400;">
+<b>For blood sugar control:</b><span style="font-weight: 400;"> Take 1-2 teaspoons of fenugreek oil per day.</span>
+</li>
+<li style="font-weight: 400;">
+<b>For testosterone levels:</b><span style="font-weight: 400;"> Take 1-2 teaspoons of fenugreek oil per day.</span>
+</li>
+<li style="font-weight: 400;">
+<b>For cholesterol levels:</b><span style="font-weight: 400;"> Take 1-2 teaspoons of fenugreek oil per day.</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://nutriafresh.com/products/8616297103670</id>
+      <title>Default Title</title>
+      <s:price currency="PKR">1152.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nutriafresh.com/products/8616296186166</id>
+    <published>2023-08-18T10:41:55+05:00</published>
+    <updated>2023-08-18T10:41:55+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nutriafresh.com/products/coconut-oil"/>
+    <title>Coconut Oil</title>
+    <s:type></s:type>
+    <s:vendor>Nutria Fresh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/4958/1878/files/01-coconuut-oil-04-scaled.webp?v=1692337318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nutria Fresh<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            945.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Coconut oil is a white, semi-solid fat that is extracted from the meat of mature coconuts. It has a sweet, nutty flavor and a high melting point. Coconut oil is a popular choice for cooking, as it is stable at high temperatures and does not break down easily. It is also a popular choice for skin care and hair care products.</span></p>
+<p><b>Quick Facts:</b></p>
+<p><span style="font-weight: 400;">Coconut oil has some potential health benefits, including:</span></p>
+<ul>
+<li style="font-weight: 400;">
+<b>Improved heart health:</b><span style="font-weight: 400;"> Coconut oil is a good source of medium-chain triglycerides (MCTs), which are a type of fat that is metabolized differently than other types of fat. MCTs can help to raise HDL (good) cholesterol levels and lower LDL (bad) cholesterol levels.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Reduced inflammation:</b><span style="font-weight: 400;"> Coconut oil has anti-inflammatory properties that can help to reduce inflammation throughout the body. Inflammation is linked to some chronic diseases, such as heart disease, cancer, and Alzheimer's disease.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Boosted immune system:</b><span style="font-weight: 400;"> Coconut oil is a good source of lauric acid, which is a type of fatty acid that has antimicrobial properties. Lauric acid can help to fight off bacteria, viruses, and fungi.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Improved brain health:</b><span style="font-weight: 400;"> MCTs can help to improve brain function and memory. MCTs are easily absorbed by the brain and can be used for energy.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Weight loss:</b><span style="font-weight: 400;"> Some studies have shown that coconut oil can help to promote weight loss. MCTs can help to increase metabolism and reduce appetite.</span>
+</li>
+</ul>
+<p><b>How to Use</b></p>
+<p><span style="font-weight: 400;">Coconut oil can be used in a variety of ways, including:</span></p>
+<ul>
+<li style="font-weight: 400;">
+<b>As a cooking oil:</b><span style="font-weight: 400;"> Coconut oil can be used to stir-fry, saute, or roast vegetables. It can also be used to make salad dressings or marinades.</span>
+</li>
+<li style="font-weight: 400;">
+<b>As a moisturizer:</b><span style="font-weight: 400;"> Coconut oil can be used to moisturize the skin and hair. It is a good choice for people with dry skin or hair.</span>
+</li>
+<li style="font-weight: 400;">
+<b>As a makeup remover:</b><span style="font-weight: 400;"> Coconut oil can be used to remove makeup. It is a gentle and effective way to remove even waterproof mascara.</span>
+</li>
+<li style="font-weight: 400;">
+<b>As a hair treatment:</b><span style="font-weight: 400;"> Coconut oil can be used to condition the hair. It can help to make hair soft, shiny, and manageable.</span>
+</li>
+</ul>
+<p data-mce-fragment="1"><b>As a massage oil:</b><span style="font-weight: 400;"> Coconut oil can be used as a massage oil to help relax muscles and reduce tension</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://nutriafresh.com/products/8616296186166</id>
+      <title>Default Title</title>
+      <s:price currency="PKR">945.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nutriafresh.com/products/8616293957942</id>
+    <published>2023-08-18T10:40:20+05:00</published>
+    <updated>2023-08-18T10:40:20+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nutriafresh.com/products/black-seed-oil-kalwanji"/>
+    <title>Black Seed Oil (Kalwanji)</title>
+    <s:type></s:type>
+    <s:vendor>Nutria Fresh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/4958/1878/files/01-blackseed-oil-03-scaled.webp?v=1692875590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nutria Fresh<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1539.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Black seed oil, also known as kalonji oil, is a natural oil that is extracted from the seeds of the black cumin plant (Nigella sativa). It has a strong, pungent aroma and a slightly bitter taste. Black seed oil has been used for centuries in traditional medicine for a variety of ailments. </span></p>
+<p><b>Quick Facts:</b></p>
+<p><span style="font-weight: 400;">Black seed oil has several potential health benefits, including:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Black seed oil is a good source of antioxidants, which can help to boost the immune system. Antioxidants can help to protect the body from damage caused by free radicals.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Black seed oil has anti-inflammatory properties that can help to reduce inflammation throughout the body. Inflammation is linked to several chronic diseases, such as heart disease, cancer, and Alzheimer's disease.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Black seed oil can help to improve blood sugar control in people with diabetes. Black seed oil can help to slow the absorption of sugar into the bloodstream.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Black seed oil can help to boost testosterone levels in men. Testosterone is a hormone that is important for muscle mass, bone density, and libido.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Black seed oil can help to reduce cholesterol levels. Black seed oil can help to lower LDL (bad) cholesterol and raise HDL (good) cholesterol.</span></li>
+</ul>
+<p><b>How to Use</b></p>
+<p><span style="font-weight: 400;">Black seed oil can be used in a variety of ways, including:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Black seed oil can be taken orally by adding it to food or drinks. The recommended dosage is 1-2 teaspoons per day.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Black seed oil can be applied topically to the skin. It can be used to treat acne, eczema, and other skin conditions.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Black seed oil can be inhaled using a diffuser. This can help to clear congestion and relieve respiratory problems.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://nutriafresh.com/products/8616293957942</id>
+      <title>Default Title</title>
+      <s:price currency="PKR">1539.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

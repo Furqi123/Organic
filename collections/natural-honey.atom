@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://nutriafresh.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://nutriafresh.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://nutriafresh.com/collections/natural-honey.atom"/>
+  <title>Nutria Fresh</title>
+  <updated>2023-11-27T10:56:53+05:00</updated>
+  <author>
+    <name>Nutria Fresh</name>
+  </author>
+  <entry>
+    <id>https://nutriafresh.com/products/8616207089974</id>
+    <published>2023-11-27T10:56:53+05:00</published>
+    <updated>2023-11-27T10:56:53+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nutriafresh.com/products/copy-of-eucalyptus-honey"/>
+    <title>Honey with Pistachio</title>
+    <s:type></s:type>
+    <s:vendor>Nutria Fresh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/4958/1878/files/pista-honey-125g.webp?v=1701065019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nutria Fresh<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1350.00 - 1620.00
+            <a href="https://nutriafresh.com/products/copy-of-eucalyptus-honey">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Honey with Pistachio is a delicious and nutritious spread made with honey and ground pistachios. It has a sweet and nutty flavor and a smooth, creamy texture. Honey with pistachio can be enjoyed on its own, or it can be used to top toast, pancakes, waffles, and other baked goods. It can also be used in smoothies, yogurt parfaits, and ice cream sundaes.</span></p>
+<p><b>Quick Facts:</b></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Honey with pistachio offers a rich source of protein, fiber, and healthy fats.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Pistachios provide essential nutrients like vitamin E, magnesium, and copper.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Honey is abundant in antioxidants and anti-inflammatory compounds, contributing to its health benefits.</span></li>
+</ul>
+<p><b>How to Use:</b></p>
+<p><span style="font-weight: 400;">Honey with pistachio can be enjoyed in a variety of ways. Here are a few ideas:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Spread it on toast, pancakes, or waffles for a delicious and nutritious breakfast.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Top your yogurt parfait with honey with pistachio for a sweet and nutty treat.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Add it to your smoothie for a boost of protein and healthy fats.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Drizzle it over ice cream for a decadent dessert.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Use it in baking to add flavor and moisture to your baked goods.</span></li>
+</ul>
+<p><b>Here are a few specific recipes that you can try:</b></p>
+<ul>
+<li style="font-weight: 400;">
+<b>Honey Pistachio Smoothie:</b><span style="font-weight: 400;"> Combine 1 cup milk, 1/2 cup yogurt, 1/4 cup honey, 1/4 cup ground pistachios, and 1 banana in a blender. Blend until smooth and enjoy.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Honey Pistachio Yogurt Parfait:</b><span style="font-weight: 400;"> Layer yogurt, honey with pistachio, and granola in a glass or jar. Repeat layers until the glass or jar is full. Top with fresh fruit and enjoy.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Honey Pistachio Ice Cream Sundae:</b><span style="font-weight: 400;"> Scoop your favorite ice cream into a bowl. Drizzle with honey with pistachios and top with chopped pistachios. Enjoy!</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://nutriafresh.com/products/8616207089974</id>
+      <title>125g</title>
+      <s:price currency="PKR">1350.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nutriafresh.com/products/8616207089974</id>
+      <title>250g</title>
+      <s:price currency="PKR">1620.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nutriafresh.com/products/8906855383350</id>
+    <published>2023-11-09T13:11:20+05:00</published>
+    <updated>2023-11-09T13:11:20+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nutriafresh.com/products/honey-pr-box"/>
+    <title>Honey PR Box</title>
+    <s:type></s:type>
+    <s:vendor>Nutria Fresh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/4958/1878/files/PL_00486.jpg?v=1699514278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nutria Fresh<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5265.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><b data-mce-fragment="1">Beri (Sidr) Honey: </b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> </span></p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1"><b data-mce-fragment="1">Description:</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> Dive into the divine nectar of Beri Honey, collected by bees from the blossoms of Sidr trees in the mountainous regions of Pakistan. This exquisite honey, with its 100% organic origins, delights with its reddish-brown hue, velvety texture, and sweet, fruity notes.1</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Quick Facts:</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> Beri Honey is your ally in allergy defense, soothing elixirs, digestion, weight management, skin health, blood sugar balance, antioxidant abundance, heart wellness, and nature's sweet sweetness.</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">How to Use:</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> Drizzle it over juices, smoothies, teas, and coffees for natural sweetness. Elevate your culinary creations by substituting honey for sugar. For skincare, blend it with cinnamon for an acne-fighting mask or with lemon juice to fade dark spots.</span></p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1"><b data-mce-fragment="1">Mix Nuts In Beri Honey:</b></p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1"><b data-mce-fragment="1">Description:</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> Mixing nuts in Beri Honey brings a delicious and nutritious fusion of textures and health benefits. Nuts contribute protein, fiber, healthy fats, and essential vitamins and minerals, while Beri Honey adds sweetness and antioxidants.</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Quick Facts:</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> Nuts like almonds, walnuts, cashews, peanuts, and pecans meet Beri Honey's antioxidants and anti-inflammatory properties to boost heart health, energy levels, immune defenses, and cellular protection.</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">How to Use:</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> Create a trail mix, top your yogurt, enhance smoothies, or use it as a spread for a delightful, energy-boosting treat.</span></p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1"><b data-mce-fragment="1">Honey With Saffron:</b></p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1"><b data-mce-fragment="1">Description:</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> Nutria Fresh's Honey With Saffron is an all-natural product made from raw organic honey infused with high-quality Saffron (Super Negin A+ European Grade). This fusion offers benefits like reduced skin issues, detoxification, and support for muscle and joint health.</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Benefits:</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> This combination detoxifies the blood, reduces cholesterol, and alleviates muscle weakness, joint, and back pains. For added benefits, mix one tablespoon in warm water in the morning or warm milk at bedtime.</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">How to Use:</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> Enjoy one tablespoon of Honey With Saffron in a glass of warm milk for a wholesome wellness experience.</span></p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1"><b data-mce-fragment="1">Salajeet (Shilajit):</b></p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1"><b data-mce-fragment="1">Description:</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> Salajeet, also known as Shilajit, is a natural substance formed over centuries by the gradual decomposition of organic matter in the Himalayan rocks. It's a sticky, dark brown or black substance with various potential health benefits.</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Quick Facts:</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> Salajeet offers improved energy levels, reduced inflammation, enhanced cognitive function, boosted immune system, improved heart health, increased testosterone levels (for men), improved fertility (for men), and boosted sexual performance (for men and women).</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">How to Use:</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> Mix Shilajit powder with warm milk or water, take Shilajit capsules with food, add Shilajit liquid to smoothies or juices, or apply it topically to reduce inflammation and promote wound healing.</span></p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1"><b data-mce-fragment="1">Saffron:</b></p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1"><b data-mce-fragment="1">Description:</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> Saffron is a precious spice derived from the saffron crocus flower and is known for its vibrant red color, intense aroma, and slightly bitter taste. It's a valuable addition to culinary and beverage delights.</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Quick Facts:</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> Saffron offers improved mood, enhanced cognitive function, reduced inflammation, improved heart health, and antioxidant protection.</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">How to Use:</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> Infuse your dishes with its unique flavor, elevate your beverages, or consider saffron threads as a dietary supplement.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://nutriafresh.com/products/8906855383350</id>
+      <title>Default Title</title>
+      <s:price currency="PKR">5265.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nutriafresh.com/products/8616239563062</id>
+    <published>2023-08-18T10:02:32+05:00</published>
+    <updated>2023-08-18T10:02:32+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nutriafresh.com/products/sidr-beri-honey"/>
+    <title>Sidr (Beri) Honey</title>
+    <s:type></s:type>
+    <s:vendor>Nutria Fresh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/4958/1878/files/sidr-honey-01-125-g.webp?v=1692334992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nutria Fresh<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            450.00 - 3015.00
+            <a href="https://nutriafresh.com/products/sidr-beri-honey">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Beri Honey is a divine nectar gathered by bees from the blossoms of the Sidr tree in the mountainous regions of Pakistan. This honey is celebrated for its exquisite taste and unique origin. The Sidr tree, found in the wild, blesses us with honey that's 100% organic, showcasing a reddish-brown hue and a lush, velvety texture. Its flavor is a sweet revelation, carrying fruity notes that dance on the palate.</span></p>
+<p><b>Quick Facts </b></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Allergy Defense</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Soothing Elixir</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Digestive Companion</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Weight Management</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Healing Touch</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Skin's Delight</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Blood Sugar Harmony</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Antioxidant Bounty</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Heart Health</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Nature's Sweetness</span></li>
+</ul>
+<p><b>How to Use Sidr Honey</b></p>
+<p><span style="font-weight: 400;">Beri (Sidr) Honey is a versatile companion in your daily life:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Add 1-2 teaspoons of honey to your juices, smoothies, teas, and coffees as a natural sweetener.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Enhance your culinary creations by substituting honey for sugar in recipes.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">For skincare, create a mask by mixing 3 teaspoons of honey with half a teaspoon of cinnamon to combat acne. Apply to your face, leave for 15 minutes, and rinse with lukewarm water.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">To fade dark spots, blend 2 teaspoons of honey with half a teaspoon of lemon juice, and apply the mixture as a mask for 20-30 minutes.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://nutriafresh.com/products/8616239563062</id>
+      <title>125g</title>
+      <s:price currency="PKR">450.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nutriafresh.com/products/8616239563062</id>
+      <title>250g</title>
+      <s:price currency="PKR">900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nutriafresh.com/products/8616239563062</id>
+      <title>400g</title>
+      <s:price currency="PKR">1710.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nutriafresh.com/products/8616239563062</id>
+      <title>700g</title>
+      <s:price currency="PKR">3015.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nutriafresh.com/products/8616237203766</id>
+    <published>2023-08-18T10:00:40+05:00</published>
+    <updated>2023-08-18T10:00:40+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nutriafresh.com/products/robinia-honey"/>
+    <title>Robinia Honey</title>
+    <s:type></s:type>
+    <s:vendor>Nutria Fresh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/4958/1878/files/Robinia01.webp?v=1699639395"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nutria Fresh<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            522.00 - 2340.00
+            <a href="https://nutriafresh.com/products/robinia-honey">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Robinia Honey, derived from the blossoms of the Black Locust tree in the Chitral and Gilgit-Baltistan regions of Pakistan, is a treasure waiting to grace your palate. This exquisite honey embodies a delicate, lively, and elegant taste, much like a gentle breeze on a sunlit day. It boasts a light to clear color and enchants with its soft, floral notes, leaving your taste buds with a lingering sweetness and hints of vanilla.</span></p>
+<p><b>Taste and Color:</b></p>
+<p><span style="font-weight: 400;">A dance of flavors awaits your palate as you savor Robinia Honey. It unveils a very thin, delicate, and elegant profile, akin to a gentle breath of wind. With its light-colored, almost clear appearance, this honey delivers a soft and exquisite floral taste that leaves your senses enchanted. A mere taste unveils a tender sweetness, while a subtle, lingering flavor of sweet florals with hints of vanilla graces your mouth.</span></p>
+<p><b>Quick Facts </b></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Antiseptic Marvel</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Antioxidant-Rich</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Allergy-Friendly</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Slow Crystallization</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Healthy Sweetening</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Stress Relief</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Healing Touch</span></li>
+</ul>
+<p><b>How to Use:</b></p>
+<ul>
+<li style="font-weight: 400;">
+<b>As a Natural Sweetener: </b><span style="font-weight: 400;">Add 1-2 teaspoons of Robinia honey to your beverages like teas, coffees, and smoothies.</span>
+</li>
+<li style="font-weight: 400;">
+<b>In Culinary Delights:</b><span style="font-weight: 400;"> Replace sugar with Robinia honey in your cooking and baking endeavors, following your recipes.</span>
+</li>
+<li style="font-weight: 400;">
+<b>For Skin Nourishment:</b><span style="font-weight: 400;"> Create a face mask by mixing 2 teaspoons of honey with half a teaspoon of lemon juice. Apply it to your skin for 20-30 minutes to reduce dark spots and enhance skin quality.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Stomach Soother: </b><span style="font-weight: 400;">A spoonful of Robinia honey on an empty stomach, 20-30 minutes before a meal, can help calm stomach inflammation and assist with digestive conditions.</span>
+</li>
+</ul>
+<p><b>Throat Comfort: </b><span style="font-weight: 400;">In cases of sore throats, Robinia honey can be a soothing and bacterial-fighting remedy, helping to alleviate irritation and reduce cough.</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://nutriafresh.com/products/8616237203766</id>
+      <title>125g</title>
+      <s:price currency="PKR">522.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nutriafresh.com/products/8616237203766</id>
+      <title>250g</title>
+      <s:price currency="PKR">855.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nutriafresh.com/products/8616237203766</id>
+      <title>400g</title>
+      <s:price currency="PKR">1485.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nutriafresh.com/products/8616237203766</id>
+      <title>700g</title>
+      <s:price currency="PKR">2340.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nutriafresh.com/products/8616219476278</id>
+    <published>2023-08-18T09:51:49+05:00</published>
+    <updated>2023-08-18T09:51:49+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nutriafresh.com/products/copy-of-mix-nuts-in-beri-honey"/>
+    <title>Orange Blossom Honey</title>
+    <s:type></s:type>
+    <s:vendor>Nutria Fresh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/4958/1878/files/orange-blossom-honey-01-125-g.webp?v=1692334466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nutria Fresh<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            450.00 - 1080.00
+            <a href="https://nutriafresh.com/products/copy-of-mix-nuts-in-beri-honey">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">This honey variety offers a delightful addition to your favorite beverages, a luscious drizzle over granola, or a heavenly spread on warm toast. Close your eyes and savor the essence of an enchanting citrus grove nestled in the serene foothills of the Upper Regions of Punjab, where diligent beekeepers ensure their honeybees exclusively gather nectar from the delicate blossoms of orange and tangerine trees.</span></p>
+<p><span style="font-weight: 400;">It's not just a sweetener; it's a flavorful journey to the fragrant citrus groves of Punjab. With its numerous health attributes and versatile uses, this honey variety delights both the palate and the body. </span></p>
+<p><b>Quick Facts:</b></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Skin's Delight</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Heart Health</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Wound Healing</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Blood Sugar Balance</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Rich in Antioxidants</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Blood Pressure Support</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Cholesterol Improvement</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Natural Sweetener</span></li>
+</ol>
+<p><b>How to use:</b></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">For your favorite beverages like juices, smoothies, teas, and coffees, simply mix 1-2 teaspoons of Orange Blossom Honey as a natural sweetener.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">For those with acne-prone skin, concoct a honey-cinnamon mask by blending 3 teaspoons of honey and half a teaspoon of cinnamon. Apply this soothing mask to your face, leave it on for 15 minutes, and rinse with lukewarm water.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Bid bye to dark spots by preparing a skin-clarifying mask. Combine 2 teaspoons of honey with half a teaspoon of lemon juice, apply the mixture as a mask for 20-30 minutes, and unveil radiant results.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://nutriafresh.com/products/8616219476278</id>
+      <title>125g</title>
+      <s:price currency="PKR">450.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nutriafresh.com/products/8616219476278</id>
+      <title>250g</title>
+      <s:price currency="PKR">900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nutriafresh.com/products/8616219476278</id>
+      <title>400g</title>
+      <s:price currency="PKR">855.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nutriafresh.com/products/8616219476278</id>
+      <title>700g</title>
+      <s:price currency="PKR">1080.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nutriafresh.com/products/8616215314742</id>
+    <published>2023-08-18T09:49:53+05:00</published>
+    <updated>2023-08-18T09:49:53+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nutriafresh.com/products/mix-nuts-in-beri-honey"/>
+    <title>Mix nuts in Beri Honey</title>
+    <s:type></s:type>
+    <s:vendor>Nutria Fresh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/4958/1878/files/mix-nut-honey-250-g.webp?v=1699639448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nutria Fresh<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            900.00 - 1350.00
+            <a href="https://nutriafresh.com/products/mix-nuts-in-beri-honey">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Mixing nuts in beri honey is a delicious and nutritious way to enjoy both ingredients. The nuts add a crunchy texture and protein boost, while the beri honey adds sweetness and antioxidants.</span></p>
+<p><b>Quick Facts:</b></p>
+<ul>
+<li style="font-weight: 400;">
+<b>Nuts: </b><span style="font-weight: 400;">Protein, fiber, healthy fats, vitamins, and minerals.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Common nuts:</b><span style="font-weight: 400;"> Almonds, walnuts, cashews, peanuts, pecans.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Beri honey:</b><span style="font-weight: 400;"> Rich in antioxidants and anti-inflammatory compounds.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Nuts in Beri honey: </b><span style="font-weight: 400;">Boost heart health, energy, immune system, and cellular protection.</span>
+</li>
+</ul>
+<p><b>How to Use:</b></p>
+<p><span style="font-weight: 400;">You can mix nuts in beri honey in a variety of ways. Here are a few ideas:</span></p>
+<ul>
+<li style="font-weight: 400;">
+<b>Trail mix:</b><span style="font-weight: 400;"> Combine your favorite nuts, such as almonds, walnuts, and pecans, with beri honey. Add dried fruit and seeds for extra flavor and nutrients.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Yogurt topping:</b><span style="font-weight: 400;"> Top your yogurt with a handful of nuts and a drizzle of beri honey. This is a quick and easy breakfast or snack.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Smoothie addition:</b><span style="font-weight: 400;"> Add a handful of nuts to your smoothie for a boost of protein and healthy fats. Beri honey can also be added to smoothies for sweetness and antioxidants.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Sandwich spread:</b><span style="font-weight: 400;"> Spread nut butter on a slice of bread and top with beri honey and sliced bananas. This is a delicious and satisfying snack or meal.</span>
+</li>
+</ul>
+<p><span style="font-weight: 400;">No matter how you choose to use it, mixing nuts in beri honey is a delicious and nutritious way to improve your health.</span></p>
+<p><b>Here are a few additional tips for using nuts in beri honey:</b></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Store your mixed nuts in beri honey in an airtight container in the refrigerator. This will help to keep them fresh and prevent them from becoming rancid.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You can also add other ingredients to your mixed nuts and beri honey, such as dried fruit, seeds, or spices. Get creative and experiment with different flavors and combinations to find what you like best.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Enjoy your mixed nuts in beri honey as a snack, breakfast, or meal. It's a great way to get a boost of energy, protein, and healthy fats.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://nutriafresh.com/products/8616215314742</id>
+      <title>125g</title>
+      <s:price currency="PKR">900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nutriafresh.com/products/8616215314742</id>
+      <title>250g</title>
+      <s:price currency="PKR">1350.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nutriafresh.com/products/8616211087670</id>
+    <published>2023-08-18T09:48:02+05:00</published>
+    <updated>2023-08-18T09:48:02+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nutriafresh.com/products/copy-of-honey-with-pistachio"/>
+    <title>Honey With Saffron</title>
+    <s:type></s:type>
+    <s:vendor>Nutria Fresh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/4958/1878/files/zafran-honey-250-g.webp?v=1697778880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nutria Fresh<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            990.00 - 1350.00
+            <a href="https://nutriafresh.com/products/copy-of-honey-with-pistachio">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Saffron Honey is <b>made from raw organic honey and is an all-natural product</b>, meaning that it is unpasteurized and contains no artificial preservatives or colourings.</p>
+<p>We use the highest quality Saffron (Super Negin A+ European Grade) and infuse with Organic  Honey.</p>
+<p>It takes almost 48 hours for the Saffron to release the essential oils and aroma into  Honey.</p>
+<p>Benefits:</p>
+<p>Mixing one tablespoon of <strong> Honey with Saffron</strong> in a glass of warm water and drinking early morning reduces skin pimples, acne, scars and lightens the skin complexion naturally. This mixture of Honey and Saffron detoxifies the blood and reduces cholesterol.</p>
+<p>before bedtime to reduce muscle weakness, joint and back pains.</p>
+<p><strong>How To use :</strong></p>
+<p><br>Use one tablespoon of<strong>  Honey with Saffron</strong><span> </span>mixed in a glass of warm milk</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://nutriafresh.com/products/8616211087670</id>
+      <title>125g</title>
+      <s:price currency="PKR">990.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nutriafresh.com/products/8616211087670</id>
+      <title>250g</title>
+      <s:price currency="PKR">1350.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nutriafresh.com/products/8616185168182</id>
+    <published>2023-08-18T09:32:45+05:00</published>
+    <updated>2023-08-18T09:32:45+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nutriafresh.com/products/acacia-honey"/>
+    <title>Acacia Honey</title>
+    <s:type></s:type>
+    <s:vendor>Nutria Fresh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0818/4958/1878/files/acacia-honey-01-125-g.webp?v=1692333167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nutria Fresh<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            585.00 - 1350.00
+            <a href="https://nutriafresh.com/products/acacia-honey">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Acacia honey is a type of honey that is made from the nectar of the acacia tree. It is a light-colored honey with a mild, sweet flavor. Acacia honey is known for its high fructose content, which makes it slow to crystallize. It is also less likely to cause allergies than other types of honey.</span></p>
+<p><b>Quick Facts:</b></p>
+<p><span style="font-weight: 400;">Some of the potential health benefits of acacia honey include:</span></p>
+<ul>
+<li style="font-weight: 400;">
+<b>Improved wound healing:</b><span style="font-weight: 400;"> Acacia honey has been shown to promote wound healing. It can help to reduce inflammation, fight infection, and speed up the growth of new tissue.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Cough relief:</b><span style="font-weight: 400;"> Acacia honey is effective in relieving coughs. It can soothe the throat and suppress the urge to cough.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Reduced risk of heart disease: </b><span style="font-weight: 400;">Acacia honey can help to lower cholesterol levels and improve blood sugar control. These factors can reduce the risk of heart disease.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Boosted immune system: </b><span style="font-weight: 400;">Acacia honey is a good source of antioxidants, which can help to boost the immune system.</span>
+</li>
+</ul>
+<p><b>How to Use</b></p>
+<p><span style="font-weight: 400;">Acacia honey can be used in a variety of ways. Here are a few ideas:</span></p>
+<ul>
+<li style="font-weight: 400;">
+<b>Add it to tea or coffee:</b><span style="font-weight: 400;"> Add a teaspoon of acacia honey to your morning cup of tea or coffee for a sweet and healthy boost.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Use it as a marinade:</b><span style="font-weight: 400;"> Acacia honey can be used as a marinade for chicken, fish, or vegetables. It adds a unique flavor and helps to tenderize the meat.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Add it to yogurt:</b><span style="font-weight: 400;"> Top your yogurt with a drizzle of acacia honey for a delicious and nutritious snack.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Use it as a topping for pancakes or waffles:</b><span style="font-weight: 400;"> Acacia honey is a delicious and healthy topping for pancakes or waffles.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Add it to baked goods:</b><span style="font-weight: 400;"> Acacia honey can be used to add flavor and moisture to baked goods, such as muffins, cookies, and cakes.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Eat it on its own:</b><span style="font-weight: 400;"> Acacia honey can be eaten on its own as a snack or dessert. It is also a good way to sweeten drinks and food without adding refined sugar.</span>
+</li>
+</ul>
+<p><span style="font-weight: 400;">Acacia honey is a delicious and versatile ingredient that can be used in a variety of ways. It is also a good source of nutrients and has several potential health benefits.</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://nutriafresh.com/products/8616185168182</id>
+      <title>125g</title>
+      <s:price currency="PKR">585.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nutriafresh.com/products/8616185168182</id>
+      <title>250g</title>
+      <s:price currency="PKR">765.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nutriafresh.com/products/8616185168182</id>
+      <title>400g</title>
+      <s:price currency="PKR">900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nutriafresh.com/products/8616185168182</id>
+      <title>700g</title>
+      <s:price currency="PKR">1350.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
